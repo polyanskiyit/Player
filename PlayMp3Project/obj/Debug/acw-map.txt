@@ -1,0 +1,4 @@
+PlayMp3Project.MainActivity, PlayMp3Project;md5f8070ba981fedaca9d07a57d5fb5d211.MainActivity
+PlayMp3Project.MainActivity, PlayMp3Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f8070ba981fedaca9d07a57d5fb5d211.MainActivity
+PlayMp3Project.MainActivity;md5f8070ba981fedaca9d07a57d5fb5d211.MainActivity
+playmp3project.MainActivity;md5f8070ba981fedaca9d07a57d5fb5d211.MainActivity
